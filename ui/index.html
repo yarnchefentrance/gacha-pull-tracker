@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wishboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="window">
+    <header class="titlebar" data-tauri-drag-region>
+      <div class="brand" data-tauri-drag-region>
+        <svg class="logo" viewBox="0 0 24 24" aria-hidden="true">
+          <rect width="24" height="24" rx="6" fill="#1B1A17"/>
+          <circle cx="12" cy="12" r="6.6" fill="none" stroke="#3A3832" stroke-width="2.2"/>
+          <path d="M12 5.4a6.6 6.6 0 1 1-6.27 8.64" fill="none" stroke="#B8892B" stroke-width="2.2" stroke-linecap="round"/>
+          <path d="M12 9.2l.8 2 2 .8-2 .8-.8 2-.8-2-2-.8 2-.8z" fill="#FBF8F3"/>
+        </svg>
+        <span>Wishboard</span>
+      </div>
+      <nav class="games" id="games"></nav>
+      <div class="tb-meta" data-tauri-drag-region id="syncState"></div>
+      <div class="caption">
+        <button data-win="minimize" aria-label="Minimize"><svg viewBox="0 0 10 10"><path d="M0 5h10"/></svg></button>
+        <button data-win="toggleMaximize" aria-label="Maximize"><svg viewBox="0 0 10 10"><rect x=".5" y=".5" width="9" height="9"/></svg></button>
+        <button data-win="close" class="close" aria-label="Close"><svg viewBox="0 0 10 10"><path d="M0 0l10 10M10 0L0 10"/></svg></button>
+      </div>
+    </header>
+    <div class="body">
+      <aside class="sidebar" id="sidebar"></aside>
+      <main class="view" id="view"></main>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

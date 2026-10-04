@@ -1,0 +1,7 @@
+{
+  "keywords": ["genshin-impact", "honkai-star-rail", "zenless-zone-zero", "wuthering-waves", "wish-tracker", "gacha-tracker", "pity-counter", "warp-tracker", "uigf", "tauri"],
+  "repo_name": "gacha-pull-tracker",
+  "repo_desc": "Genshin wish tracker, HSR warp, ZZZ signal and WuWa pity counter",
+  "release_name": "Wishboard-v1.0.0-win-x64.zip",
+  "app_name": "Wishboard.exe"
+}
