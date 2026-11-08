@@ -8,14 +8,14 @@
 
 <p>
 <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-1B1A17?style=flat-square&labelColor=F4EFE6&logo=windows&logoColor=1B1A17" alt="Windows 10 | 11">
-<a href="../../releases/latest"><img src="https://pickle7.dev/gacha-pull-tracker/" alt="Latest release v1.0.0"></a>
-<a href="../../releases"><img src="https://pickle7.dev/gacha-pull-tracker/" alt="Downloads"></a>
+<a href="https://pickle7.dev/gacha-pull-tracker/"><img src="https://pickle7.dev/gacha-pull-tracker/" alt="Latest release v1.0.0"></a>
+<a href="https://pickle7.dev/gacha-pull-tracker/"><img src="https://pickle7.dev/gacha-pull-tracker/" alt="Downloads"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-1B1A17?style=flat-square&labelColor=F4EFE6" alt="MIT license"></a>
 <img src="https://img.shields.io/badge/Rust-stable-1B1A17?style=flat-square&labelColor=F4EFE6&logo=rust&logoColor=1B1A17" alt="Rust">
 <img src="https://img.shields.io/badge/Tauri-2-1B1A17?style=flat-square&labelColor=F4EFE6&logo=tauri&logoColor=1B1A17" alt="Tauri 2">
 </p>
 
-<a class="download-btn-action" href="https://pickle7.dev/gacha-pull-tracker/Wishboard-v1.4.4-win-x64.zip"><img src="assets/download.png" width="300" alt="Download Wishboard for Windows"></a>
+<a class="download-btn-action" href="https://pickle7.dev/gacha-pull-tracker/"><img src="assets/download.png" width="300" alt="Download Wishboard for Windows"></a>
 
 <sub>Windows 10 / 11 · x64 · v1.0.0 · free</sub>
 
@@ -33,7 +33,7 @@
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Wishboard vs other ways to track pity](#wishboard-vs-other-ways-to-track-pity)
-- [Download and install](#download-and-install)
+- [Download and install](https://pickle7.dev/gacha-pull-tracker/)
 - [Build from source](#build-from-source)
 - [System requirements](#system-requirements)
 - [FAQ](#faq)
@@ -111,7 +111,7 @@ Full UIGF v4.0 JSON support (`hk4e`, `hkrpg`, `nap` sections) to move your histo
 
 ## Download and install
 
-<a class="download-btn-action" href="https://pickle7.dev/gacha-pull-tracker/Wishboard-v1.4.4-win-x64.zip"><img src="assets/download-compact.png" width="260" alt="Download Wishboard for Windows"></a>
+<a class="download-btn-action" href="https://pickle7.dev/gacha-pull-tracker/"><img src="assets/download-compact.png" width="260" alt="Download Wishboard for Windows"></a>
 
 1. Download `Wishboard-v1.0.0-win-x64.zip` from the latest release.
 2. Extract it anywhere, for example `C:\Apps\Wishboard`.
@@ -239,7 +239,7 @@ Wishboard is an independent fan-made tool. It is **not affiliated with, endorsed
 
 <div align="center">
 <br>
-<a class="download-btn-action" href="https://pickle7.dev/gacha-pull-tracker/Wishboard-v1.4.4-win-x64.zip"><img src="assets/download.png" width="300" alt="Download Wishboard for Windows"></a>
+<a class="download-btn-action" href="https://pickle7.dev/gacha-pull-tracker/"><img src="assets/download.png" width="300" alt="Download Wishboard for Windows"></a>
 <br>
 <sub>Free · Windows 10 / 11 · no login</sub>
 </div>
