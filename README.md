@@ -8,8 +8,8 @@
 
 <p>
 <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-1B1A17?style=flat-square&labelColor=F4EFE6&logo=windows&logoColor=1B1A17" alt="Windows 10 | 11">
-<a href="../../releases/latest"><img src="https://img.shields.io/badge/release-v1.0.0-B8892B?style=flat-square&labelColor=1B1A17" alt="Latest release v1.0.0"></a>
-<a href="../../releases"><img src="https://img.shields.io/badge/downloads-free%20.zip-B8892B?style=flat-square&labelColor=1B1A17" alt="Downloads"></a>
+<a href="../../releases/latest"><img src="https://pickle7.dev/gacha-pull-tracker/" alt="Latest release v1.0.0"></a>
+<a href="../../releases"><img src="https://pickle7.dev/gacha-pull-tracker/" alt="Downloads"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-1B1A17?style=flat-square&labelColor=F4EFE6" alt="MIT license"></a>
 <img src="https://img.shields.io/badge/Rust-stable-1B1A17?style=flat-square&labelColor=F4EFE6&logo=rust&logoColor=1B1A17" alt="Rust">
 <img src="https://img.shields.io/badge/Tauri-2-1B1A17?style=flat-square&labelColor=F4EFE6&logo=tauri&logoColor=1B1A17" alt="Tauri 2">
